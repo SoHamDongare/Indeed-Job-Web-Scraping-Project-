@@ -41,9 +41,6 @@ indeed-job-webscraping/
 3. Run the script:
    python indeeed.py
 
-## Disclaimer
-This project is created for educational purposes only.
-
 ## Author
 Soham Dongare
 B.Sc IT Undergraduate | Aspiring Python Developer
