@@ -43,7 +43,8 @@ indeed-job-webscraping/
 
 ## Author
 Soham Dongare
-<pB.Sc IT Undergraduate | Aspiring Python Developer
+<p>
+   B.Sc IT Undergraduate | Aspiring Python Developer
 <p>
   Connect with me:
   <a href="https://www.linkedin.com/in/soham-dongare/">
